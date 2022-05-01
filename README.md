@@ -1,4 +1,4 @@
-# Grpc Interceptor Sample
+# gRPC Interceptor Sample
  
 ## Environment
 Microsoft Visual Studio Community 2022 (64-bit) - Current
